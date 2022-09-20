@@ -74,4 +74,3 @@ class TestClass:
         Test that the mod(a, b) function properly get the result of a mod b.
         '''
         assert mod(3, 3) == 0
-
